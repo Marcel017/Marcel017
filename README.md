@@ -181,10 +181,11 @@ Me chamo **Marcelo Gabriel De Oliveira Rubim**, tenho 20 anos, nasci em Minas Ge
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcel017&theme=dark&layout=donut&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
+<br>
+<br>
 <div align=center>
 
-  <img src="https://raw.githubusercontent.com/Marcel017/gitrepo/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Marcel017/README.md/output/snake.svg" alt="Snake animation" />
 
 </div>
 
