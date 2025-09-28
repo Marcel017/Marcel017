@@ -185,7 +185,7 @@ Me chamo **Marcelo Gabriel De Oliveira Rubim**, tenho 20 anos, nasci em Minas Ge
 <br>
 <div align=center>
 
-  <img src="https://raw.githubusercontent.com/Marcel017/README.md/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Marcel017/Marcel017/output/snake.svg" alt="Snake animation" />
 
 </div>
 
