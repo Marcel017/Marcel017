@@ -1,191 +1,56 @@
-#  👩🏻‍💻 Marcelo Gabriel
+# 👩🏻‍💻 Marcelo Gabriel | Java Developer
 
-`Full Stack Developer` • `UI/UX Designer` • `Entusiasta em IA` • `Automação`  
+`Backend Specialist` • `RAG Implementation` • `UX/UI Expert` • `Automation`  
 
 ---
 
 ### 📝 Sobre mim  
-Me chamo **Marcelo Gabriel De Oliveira Rubim**, tenho 20 anos, nasci em Minas Gerais e atualmente moro em Taubaté-SP. Concluí o ensino médio na **E.E.D.R.A (MG)** e hoje curso **Dev Full Stack Java (EBAC)** e **Dev Full Stack Python (Alura)**.  Sou apaixonado por **tecnologia, automação e inteligência artificial**, com o sonho de transformar minhas ideias em realidade — desde um site funcional até um robô inteligente. Além da programação, atuo como **designer desde 2017**, com experiência em animação, ilustração e edição de vídeos e fotos. Essa bagagem criativa me ajuda a entregar projetos com muito mais estética e impacto visual.
+Me chamo **Marcelo Gabriel**, tenho 20 anos e resido em Taubaté-SP. Sou um desenvolvedor focado em construir sistemas robustos e escaláveis, atualmente em transição estratégica para o **Back-end Java** através da graduação em **Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul)** e especialização técnica na **EBAC**.
 
+Minha trajetória profissional começou em 2017 como designer freelancer, o que me proporcionou 7 anos de experiência em resolução de problemas, foco no cliente e visão estética de produto. Hoje, utilizo **Prompt Engineering** como uma ferramenta de produtividade para otimizar a lógica de sistemas e acelerar o desenvolvimento de código. Além disso, foco os meus estudos em arquiteturas de **RAG (Retrieval-Augmented Generation)** para integrar bases de dados a modelos de inteligência artificial de forma inteligente.
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:mcelogabriel17@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/omarcelogabrielz/)
-                                                         
 ---
 
-### 🤖 Linguagens e Tecnologias Em Pratica
+### 🤖 Hard Skills
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+#### **Back-end & Infra**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="35" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" title="Git"/>
+</p>
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+#### **Front-end & Web Design**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="35" title="Bootstrap"/>
+</p>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="Vuejs" 
-    title="Vuejs"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
-/>
+#### **AI & Arquitetura**
+- Implementação de arquiteturas **RAG**.
+- Otimização de processos com IA aplicada ao desenvolvimento.
 
-<br/>
-<br/>
+---
 
-### 💻 Skills em Design 
+### 📂 Projetos Estratégicos
 
-<img 
-    align="left" 
-    alt="PS"
-    title="PS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="PR"
-    title="PR" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="AI"
-    title="AI" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="AE"
-    title="AE" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="Figma"
-    title="Figma" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Canva"
-    title="Canva" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
-/>
+* **Financial Reconciler (Java/Spring):** Sistema para automação de reconciliação financeira e batimento de boletas, focado em integridade de dados.
+* **Smart CRM with RAG:** Projeto de gestão de clientes desenvolvido em Java que utiliza RAG para facilitar a busca inteligente em históricos de interações.
+* **Legacy Refactor:** Migração estratégica de dashboards de dados de Python para Java, visando maior escalabilidade.
 
-</br>
-</br> 
+---
 
 ### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Marcel017&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats"
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcel017&theme=dark&layout=donut&custom_title=Tecnologias&langs_count=9" 
-  />
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Marcel017&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcel017&theme=dark&layout=donut&custom_title=Tecnologias&langs_count=9" />
 </p>
-<br>
-<br>
-<div align=center>
 
+---
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Marcel017/Marcel017/output/snake.svg" alt="Snake animation" />
-
 </div>
-
