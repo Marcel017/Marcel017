@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Marcelo Gabriel | Java Developer
 
-`Backend Specialist` • `RAG Implementation` • `UX/UI Expert` • `Automation`  
+`Backend Specialist` • `RAG Implementation` • `UX/UI` • `Automation`  
 
 ---
 
@@ -38,15 +38,6 @@ Minha trajetória profissional começou em 2017 como designer freelancer, o que 
 - Otimização de processos com IA aplicada ao desenvolvimento.
 
 ---
-
-### 📂 Projetos Estratégicos
-
-* **Financial Reconciler (Java/Spring):** Sistema para automação de reconciliação financeira e batimento de boletas, focado em integridade de dados.
-* **Smart CRM with RAG:** Projeto de gestão de clientes desenvolvido em Java que utiliza RAG para facilitar a busca inteligente em históricos de interações.
-* **Legacy Refactor:** Migração estratégica de dashboards de dados de Python para Java, visando maior escalabilidade.
-
----
-
 ### 📊 Estatísticas
 <p align="left">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Marcel017&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" />
