@@ -9,6 +9,10 @@ Me chamo **Marcelo Gabriel**, tenho 20 anos e resido em Taubaté-SP. Sou um dese
 
 Minha trajetória profissional começou em 2017 como designer freelancer, o que me proporcionou 7 anos de experiência em resolução de problemas, foco no cliente e visão estética de produto. Hoje, utilizo **Prompt Engineering** como uma ferramenta de produtividade para otimizar a lógica de sistemas e acelerar o desenvolvimento de código. Além disso, foco os meus estudos em arquiteturas de **RAG (Retrieval-Augmented Generation)** para integrar bases de dados a modelos de inteligência artificial de forma inteligente.
 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:mcelogabriel17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/omarcelogabrielz/)
+
+
 ---
 
 ### 🤖 Hard Skills
