@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Marcelo Gabriel | Java Developer
 
-`Backend Specialist` • `RAG Implementation` • `UX/UI` • `RPA & Automation`
+`Backend Specialist` • `UX/UI` • `RPA & Automation`
 
 ---
 
